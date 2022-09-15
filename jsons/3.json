@@ -1,0 +1,59 @@
+{
+  "name": "NestPals #3",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "d65310ce28afa50d6a829adcf1c83ede69e5ec33",
+  "edition": 3,
+  "date": 1661770821781,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Orange Bubbles"
+    },
+    {
+      "trait_type": "NestPals",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyelids",
+      "value": "Dark Pink Below"
+    },
+    {
+      "trait_type": "Eyes Effects",
+      "value": "No Effects"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Round Beak"
+    },
+    {
+      "trait_type": "Worm",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hairstyles",
+      "value": "Pure Yellow Flat"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "No Mask"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Wool"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Shadow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

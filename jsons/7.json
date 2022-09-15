@@ -1,0 +1,59 @@
+{
+  "name": "NestPals #7",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "b4a8943c595168d4ab2e0a1649f0a635c936c83a",
+  "edition": 7,
+  "date": 1661770815036,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "NestPals",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Blue"
+    },
+    {
+      "trait_type": "Eyelids",
+      "value": "Yellow Green Below"
+    },
+    {
+      "trait_type": "Eyes Effects",
+      "value": "No Effects"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Curvy Beak"
+    },
+    {
+      "trait_type": "Worm",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hairstyles",
+      "value": "Blue Flat"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "No Mask"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Shadow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

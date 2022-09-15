@@ -1,0 +1,59 @@
+{
+  "name": "NestPals #5",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "9b5760940a8a5d64d8888b5e8e759db344e0100a",
+  "edition": 5,
+  "date": 1661770878450,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cyber Water"
+    },
+    {
+      "trait_type": "NestPals",
+      "value": "Cherry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyelids",
+      "value": "Dark Blue Below"
+    },
+    {
+      "trait_type": "Eyes Effects",
+      "value": "No Effects"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Curvy Beak"
+    },
+    {
+      "trait_type": "Worm",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hairstyles",
+      "value": "Pink Blue Punk"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "No Mask"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Women Bowler"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Shadow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

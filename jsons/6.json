@@ -1,0 +1,59 @@
+{
+  "name": "NestPals #6",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "944cc6f7817f81e65425e4d2afa22f72dac73c74",
+  "edition": 6,
+  "date": 1661770763585,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Grand Canyon"
+    },
+    {
+      "trait_type": "NestPals",
+      "value": "Elderberry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Eyelids",
+      "value": "Blue Mid"
+    },
+    {
+      "trait_type": "Eyes Effects",
+      "value": "No Effects"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Beak"
+    },
+    {
+      "trait_type": "Worm",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hairstyles",
+      "value": "Sky Flat"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "No Mask"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Soldier Helmet"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Shadow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

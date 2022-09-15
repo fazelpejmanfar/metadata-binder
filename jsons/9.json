@@ -1,0 +1,59 @@
+{
+  "name": "NestPals #9",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "c31bebe524df35870eab2052c97c320566b23ec7",
+  "edition": 9,
+  "date": 1661770830481,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Abstract Pinky"
+    },
+    {
+      "trait_type": "NestPals",
+      "value": "Lemmon"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyelids",
+      "value": "Blue Mid"
+    },
+    {
+      "trait_type": "Eyes Effects",
+      "value": "No Effects"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Curvy Beak"
+    },
+    {
+      "trait_type": "Worm",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hairstyles",
+      "value": "Light Grey Flat"
+    },
+    {
+      "trait_type": "Masks",
+      "value": "No Mask"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Half Frame"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Shadow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
