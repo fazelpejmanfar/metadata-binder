@@ -1,10 +1,10 @@
 {
   "name": "metadata-binder",
   "version": "1.0.0",
-  "description": "a tool to append all of your json into 1 file",
+  "description": "a tool to combine all of your json into 1 file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "nft",
